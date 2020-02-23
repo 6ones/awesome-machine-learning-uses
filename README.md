@@ -1,2 +1,4 @@
-# awesome-machine-learning-uses
-A curated list of how Machine Learning is used and applied in real life.
+# aAwesome Machine Learning Uses and Applications in Real Life
+Want to know who and how people, companies and organizations are using Machine Learning and AI ? 
+
+
