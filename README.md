@@ -5,5 +5,9 @@
 
 > This is a curation of blog posts, articles and videos on how individuals, companies and organizations are using Machine Learning & AI
 
+* [Amenity Detection and Beyond — New Frontiers of Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
+In this post, AirBnb goes into detail on how Computer Vision, Object Detection in particular, is being utilized in detecting amenities in a room.
+
+
 
 [Contribution Guide](https://github.com/6ones/awesome-machine-learning-uses/blob/master/CONTRIBUTING.md)
